@@ -9,6 +9,7 @@
 - Composition[合成]
 - Finding Extreme Values[极值]
 
+[oracle java documentation](https://docs.oracle.com/javase/tutorial/collections/algorithms/index.html#shuffling)
 
 
 
