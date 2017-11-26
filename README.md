@@ -2,12 +2,19 @@
 
 ## algorithms briefly describes
 
-- Sorting
-- Shuffling
-- Routine Date Manipulation
-- Searching
-- Composition
-- Finding Extreme Values
+- Sorting[拍下]
+- Shuffling[洗牌]
+- Routine Date Manipulation[常规数据处理]
+- Searching[搜索]
+- Composition[合成]
+- Finding Extreme Values[极值]
+
+
+
+
+
+
+
 
 **How to fix pull origin branch problem**
 
