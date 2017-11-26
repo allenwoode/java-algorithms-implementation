@@ -6,4 +6,6 @@
 
 >fatal: refusing to merge unrelated histories
 
+when u use the command `pull origin master`.
+
 Because git make sure that u want to merge 2 different repos.
