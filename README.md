@@ -2,7 +2,7 @@
 
 ## algorithms briefly describes
 
-- Sorting[拍下]
+- Sorting[排序]
 - Shuffling[洗牌]
 - Routine Date Manipulation[常规数据处理]
 - Searching[搜索]
