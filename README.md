@@ -3,7 +3,7 @@
 ## algorithms briefly describes
 
 - Sorting[排序]
-- Shuffling[洗牌]
+- Shuffling[混淆] (opposite of sort does)
 - Routine Date Manipulation[常规数据处理]
 - Searching[搜索]
 - Composition[合成]
